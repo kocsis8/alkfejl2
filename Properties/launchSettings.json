@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "passwordManager": {
+      "commandName": "Project",
+      "commandLineArgs": "-r -u gergo -p alma -e alma@alma.al -f kocsis -l marci"
+    },
+    "Profile 1": {
+      "commandName": "Project",
+      "commandLineArgs": "-s -u earth -p jsŁĐwaj5s>#c"
+    }
+  }
+}
