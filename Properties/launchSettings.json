@@ -7,6 +7,10 @@
     "Profile 1": {
       "commandName": "Project",
       "commandLineArgs": "-s -u earth -p jsŁĐwaj5s>#c"
+    },
+    "Profile 2": {
+      "commandName": "Project",
+      "commandLineArgs": "-l"
     }
   }
 }
