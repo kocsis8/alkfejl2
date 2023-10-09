@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "i4j01BZzQmrzO7MesNznbgH5bLDeH7ZATpXeCvy740Hn6hSPwLRo52yr6RtzCCCwNPo6370e8dqXPCS08K+89Q==",
+  "dgSpecHash": "5b5o61ybbgWR/C2hHcOtFE85pe3IItbT4r3SCuYxm7LyYhrtEKw6/+nfm5f5EEZmNaL/0iu04kRJgJGNteeWug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\19983\\Desktop\\alkfejl_II\\passwordManager\\passwordManager.csproj",
+  "projectFilePath": "C:\\Users\\KRG4BP\\Desktop\\Alkfejl2\\github_feat_kocsis\\alkfejl2\\passwordManager.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\19983\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
-    "C:\\Users\\19983\\.nuget\\packages\\cryptography.fernet\\1.1.1\\cryptography.fernet.1.1.1.nupkg.sha512",
-    "C:\\Users\\19983\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+    "C:\\Users\\KRG4BP\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
+    "C:\\Users\\KRG4BP\\.nuget\\packages\\cryptography.fernet\\1.1.1\\cryptography.fernet.1.1.1.nupkg.sha512",
+    "C:\\Users\\KRG4BP\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
   ],
   "logs": []
 }

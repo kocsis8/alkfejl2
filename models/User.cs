@@ -4,27 +4,21 @@ namespace passwordManager.models
 {
     internal class User
     {
-        //username,password,email,firstname,lastname
-
         [Name("username")]
-        public string username { get; set; }
-
+        public string? username { get; set; }
         [Name("password")]
-        public string password { get; set; }
-
+        public string? password { get; set; }
         [Name("email")]
-        public string email { get; set; }
-
+        public string? email { get; set; }
         [Name("firstname")]
-        public string firstname { get; set; }
-
+        public string? firstname { get; set; }
         [Name("lastname")]
-        public string lastname { get; set; }
+        public string? lastname { get; set; }
 
         public override string ToString()
         {
             return $"User: User_Name = {this.username}, Email = {this.email}, First_name = {this.firstname}, Last_Name = {this.lastname} ";
         }
-
     }
+    
 }
